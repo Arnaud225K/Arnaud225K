@@ -1,7 +1,6 @@
 <h1 >Hi there 👋 I'm Arno.K</h1>
 
-<p>💻 <strong>Full-Stack Developer | DevOps Engineer</strong> — 5+ years of experience building scalable web applications and high-performance platforms.</p>
-<p>I enjoy designing <strong>robust backend systems, modern frontends, and reliable infrastructure</strong> while continuously learning new technologies.</p>
+<p>💻 <strong>Full-Stack Developer | DevOps Engineer</strong> — 5+ years of experience building scalable web applications and high-performance platforms. I enjoy designing <strong>robust backend systems, modern frontends, and reliable infrastructure</strong> while continuously learning new technologies.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
