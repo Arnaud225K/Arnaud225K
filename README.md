@@ -25,6 +25,7 @@ I enjoy designing **robust backend systems, modern frontends, and reliable infra
 <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL &nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" height="20"/> MySQL
 </p>
+
 ---
 
 ### 📫 Contact
