@@ -36,29 +36,6 @@ Full-Stack Web Developer • DevOps Engineer • SEO Specialist
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arnofgod&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnofgod&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnofgod&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌐 Connect with me
 
