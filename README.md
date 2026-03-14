@@ -30,8 +30,7 @@ I enjoy designing **robust backend systems, modern frontends, and reliable infra
 
 ### 📫 Contact
 
-📧 **Email:** kouakanarnaud@gmail.com  
-💬 **Telegram:** https://t.me/arnofgod
+📧 **Email:** kouakanarnaud@gmail.com    💬 **Telegram:** https://t.me/arnofgod
 
 ---
 ⭐ *Always building. Always learning.*
