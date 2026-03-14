@@ -1,6 +1,7 @@
 <h1 >Hi there 👋 I'm Arno.K</h1>
 
-<p>💻 <strong>Full-Stack Developer | DevOps Engineer</strong> — 5+ years crafting scalable web apps</p>
+<p>💻 <strong>Full-Stack Developer | DevOps Engineer</strong> — 5+ years of experience building scalable web applications and high-performance platforms.</p>
+<p>I enjoy designing <strong>robust backend systems, modern frontends, and reliable infrastructure</strong> while continuously learning new technologies.</p>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -26,3 +27,5 @@
   <a href="mailto:kouakanarnaud@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/arnofgod"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
+
+<h3>⭐Always building. Always learning.</h3>
