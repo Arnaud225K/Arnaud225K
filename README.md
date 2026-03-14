@@ -1,62 +1,59 @@
-# Hi there 👋 I'm Arno.K
+# Hi there 👋 I'm Arnaud Kouakan
 
-<p align="center">
-Full-Stack Web Developer • DevOps Engineer • SEO Specialist
-</p>
+💻 **Full-Stack Web Developer | DevOps Engineer**
 
-<p align="center">
-💻 5+ years building scalable web platforms and high-performance applications
-</p>
+Full-stack developer with **5+ years of experience** building scalable web applications and high-performance platforms.
+
+I enjoy designing **robust backend systems, modern frontends, and reliable infrastructure** while continuously learning new technologies.
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=django" height="40"/> Django &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,htmx" />
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=htmx" height="40"/> HTMX
 </p>
 
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git" />
+<img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" height="40"/> Nginx &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git
 </p>
 
-### Database
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-
-# 🌐 Connect with me
-
-<p>
-
-<a href="mailto:kouakanarnaud@gmail.com">
-<img src="https://img.shields.io/badge/email-D14836?logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/arnofgod">
-<img src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL
 </p>
 
 ---
 
-# 👀 Profile Views
+## 📫 Contact
 
-<img src="https://komarev.com/ghpvc/?username=arnofgod&label=Profile%20views&color=blue&style=flat"/>
+📧 Email: **kouakanarnaud@gmail.com**
+
+💬 Telegram:  
+https://t.me/arnofgod
 
 ---
 
-⭐ Always building. Always learning.
+⭐ *Always building. Always learning.*
